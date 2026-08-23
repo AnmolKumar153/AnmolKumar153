@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m Anmol Kumar<br>🎓 B.Tech student in VIT Bhopal University.<br>💡 Passionate about learning how technology solves real-world problems<br>🚀 Currently exploring programming and building a strong foundation in coding.<br>👉“Always learning, always improving.”
+👋 Hi, I’m Anmol Kumar<br>🎓 B.Tech student in VIT Bhopal University.<br>💡 Passionate about learning how technology solves real-world problems<br>🚀 Currently exploring programming and building a strong foundation in coding.<br>👉“Always learning, Always improving.”
 
 
 ## 🌐 Socials:
