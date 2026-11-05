@@ -49,11 +49,12 @@ I'm a B.Tech student at **VIT Bhopal University**, passionate about programming,
 
 I enjoy exploring how software works, experimenting with different technologies, and continuously improving my coding skills.
 
--  Pursuing B.Tech at VIT Bhopal University.
--  Building a strong foundation in programming.
--  Exploring software and web development.
--  Interested in problem-solving and logical thinking.
--  Learning by experimenting and building projects.
+
+
+- 🎓 B.Tech Student at VIT Bhopal University.
+- 💻 Learning Java.
+- 🌱 Exploring Web Development.
+- 🚀 Building projects and improving my skills.
 
 ---
 
