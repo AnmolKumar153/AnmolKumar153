@@ -120,6 +120,7 @@ public class DeveloperMindset {
 
 ---
 
+
 <h2 align="center">🔥 05 / CONTRIBUTION_STREAK</h2>
 
 <p align="center">
@@ -128,13 +129,15 @@ public class DeveloperMindset {
 
 <div align="center">
 
-<img src="./profile/streak.svg" width="85%" alt="GitHub contribution streak: current streak, longest streak and contribution count" />
+<img src="./profile/streak.svg" width="85%" alt="GitHub Current Streak and Longest Streak" />
 
 <br/>
 
-<sub>Current streak · Longest streak · Contributions this year</sub>
+<sub>Current Streak · Longest Streak · Total Contributions</sub>
 
 </div>
+
+
 
 ---
 
